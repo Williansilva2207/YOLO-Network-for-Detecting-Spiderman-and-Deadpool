@@ -1,2 +1,2 @@
-# YOLO-Network-for-Detecting-Spiderman-and-Deadpool
-The current project has the main objective of training the YOLO network with my dataset of Spiderman and Deadpool. This is aimed at detecting these characters. The images were labeled using the bounding box technique with Label Crate.
+# Rede YOLO para detectar o Homem Aranha e Deadpool
+O projeto atual tem como objetivo principal treinar a rede YOLO com meu conjunto de dados do Homem-Aranha e do Deadpool. O objetivo é detectar esses personagens. As imagens foram rotuladas usando a técnica de bounding box com o Label Crate.
